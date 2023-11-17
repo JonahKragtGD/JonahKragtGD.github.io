@@ -15,6 +15,14 @@ header {
     display: inline;
     image-width: 250px;
 }
+.title-bar {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    display: inline;
+    image-width: 250px;
+}  
 
 .review {
     display: flex;
