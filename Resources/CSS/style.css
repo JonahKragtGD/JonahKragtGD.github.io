@@ -41,11 +41,11 @@ header img {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
     border-radius: 5px;
     width: 300px;
+    height: 550px;
 }
 
 .review-beer img {
     max-width: 100%;
-    max-height: 250px;
 }
 
 .score {
